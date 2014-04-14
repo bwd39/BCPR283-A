@@ -1,0 +1,12 @@
+\\adfsstud1\a-e\bwd39\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+\\adfsstud1\a-e\bwd39\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+\\adfsstud1\a-e\bwd39\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+\\adfsstud1\a-e\bwd39\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+\\adfsstud1\a-e\bwd39\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LevelCreator.resources
+\\adfsstud1\a-e\bwd39\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\adfsstud1\a-e\bwd39\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+\\adfsstud1\a-e\bwd39\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+\\adfsstud1\a-e\bwd39\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+H:\projects\BCPR283-A\LevelCreator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+H:\projects\BCPR283-A\LevelCreator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+H:\projects\BCPR283-A\LevelCreator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
